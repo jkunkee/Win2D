@@ -4,7 +4,7 @@
     <ProjectGuid>{f33c7cb9-5eca-47b7-9393-81e6e8f0bd34}</ProjectGuid>
     <RootNamespace>Canvas.Test</RootNamespace>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
     <AppContainerApplication>true</AppContainerApplication>
     <UnitTestPlatformVersion  Condition="'$(UnitTestPlatformVersion)' == ''">15.0</UnitTestPlatformVersion>

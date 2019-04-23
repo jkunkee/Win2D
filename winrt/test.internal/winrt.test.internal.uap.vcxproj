@@ -4,7 +4,7 @@
     <ProjectGuid>{063AB629-AADF-4749-B259-AB815B1AEB01}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>winrt_test</RootNamespace>
-    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
   </PropertyGroup>
 

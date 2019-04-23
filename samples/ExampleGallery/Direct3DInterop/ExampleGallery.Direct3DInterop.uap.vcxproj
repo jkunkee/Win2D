@@ -24,7 +24,7 @@
     <ProjectGuid>{A81F96D0-4924-40E3-A463-3CB9EE55AA93}</ProjectGuid>
     <RootNamespace>ExampleGallery.Direct3DInterop</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <AppContainerApplication>true</AppContainerApplication>
     <ApplicationType>Windows Store</ApplicationType>
     <ApplicationTypeRevision>10.0</ApplicationTypeRevision>
